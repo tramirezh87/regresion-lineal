@@ -8,7 +8,6 @@
 5. Validar la correlación
 6. 
 
-`
+```
 library(ggplot2)
-
-`
+```
