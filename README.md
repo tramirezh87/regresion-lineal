@@ -29,4 +29,4 @@ _adfdafsd_
 
 __dfadsfd__
 
-[Mi pagina web](htttp:/dafsd.com)
+[Mi pagina web](https://github.com/tramirezh87/regresion-lineal/edit/main/README.md)
