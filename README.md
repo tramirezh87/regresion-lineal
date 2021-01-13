@@ -20,3 +20,13 @@ print("codigo ")
 ```
 
 ## prueba
+
+>> espacio
+
+_adfdafsd_
+
+**negritta**
+
+__dfadsfd__
+
+[Mi pagina web](htttp:/dafsd.com)
