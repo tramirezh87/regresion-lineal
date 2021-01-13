@@ -1,5 +1,10 @@
 # Regresion Lineal
+## Titulo 2
+### Titulo 3
 
+- a
+- b
+- c
 
 1. Analisis general
 2. 
@@ -10,6 +15,8 @@
 
 ```
 library(ggplot2)
+
+print("codigo ")
 ```
 
 ## prueba
